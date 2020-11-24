@@ -4,4 +4,5 @@ Redcolor
 Bluecolor
 Orangecolor
 Yellowcolor
+Pinkcolor
 These are my colors.
